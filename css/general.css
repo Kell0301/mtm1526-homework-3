@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+#circle {
+
+display: block;
+
+width: 250px;
+
+height: 250px;
+
+background: #F06;
+
+-moz-border-radius: 200px;
+
+-webkit-border-radius: 200px;
+
+ border:20px solid #37629B;
+ text-align:center;
+ 
+ font-size:5em;
+color:#fff;
+line-height:200px;
+text-align:center;
+}
+
